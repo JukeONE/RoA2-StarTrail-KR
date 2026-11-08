@@ -1,0 +1,78 @@
+{
+ "file": "CREDITS.LTX",
+ "kind": "ltx",
+ "items": [
+  {
+   "id": 0,
+   "ko": "{F1}Old Potatoe Joe{F0}@@버그와 돈, 피자 조달 관리"
+  },
+  {
+   "id": 1,
+   "ko": "{F1}Hans-Jürgen McBugfix{F0}@@프로그램, 버그 수정, 피자 조달 관리"
+  },
+  {
+   "id": 2,
+   "ko": "{F1}Lothar Konradson{F0}@@요리, 게임 여행, 피자 쓰레기 관리"
+  },
+  {
+   "id": 3,
+   "ko": "{F1}Guy Henkle{F0}@@프로그램, 음악, 삭제 담당, 유일한 여행 총괄"
+  },
+  {
+   "id": 4,
+   "ko": "{F1}Hörscht Weidle{F0}@@프로그램, 음악, 그래픽 세부 관리"
+  },
+  {
+   "id": 5,
+   "ko": "{F1}Uli Treeman{F0}@@프로그램, 잡다한-취소, 마법 관리자"
+  },
+  {
+   "id": 6,
+   "ko": "{F1}Bernd Karwath{F0}@@휘파람, 철학, 그래픽, 몸매 관리 이사"
+  },
+  {
+   "id": 7,
+   "ko": "{F1}Vadim Ptrznsk{F0}@@그래픽, 잡지 수석 검열관"
+  },
+  {
+   "id": 8,
+   "ko": "{F1}Werner Phex{F0}@@감독, 판타지 통제 회장"
+  },
+  {
+   "id": 9,
+   "ko": "{F1}음성{F0}@배역, 음성 감독: Shaun Lyng@음향 기술: Randy\\n(자는 중) Young@목소리: Mark Camacho, Richard Dumont, Gary Jewel, Rick\\nJones, Shaun Lyng, Nancy Neilson, Guy Henkel@@녹음: Playhouse Studio,\\nSt-Laurent, Quebec, Canada"
+  },
+  {
+   "id": 10,
+   "ko": "{F1}그리고{F0}@Fanpro: Guido Hölker, Michael Johann, Dietrich Limper, Thomas Römer\\n@테스트: Wolfgang Bihler, Jochen Kästle, Markus Koschnike, Udo Kreuz, Uwe Kurth,\\nMichael Grabowski, Frank Witzemann@번역: Reinhold Mai, Fritz Bauer"
+  },
+  {
+   "id": 11,
+   "ko": "{F1}Dietgard Fricke{F0}@@테스트 구역 관리, 사용자 안내"
+  },
+  {
+   "id": 12,
+   "ko": "{F1}Ibrahim Uyar{F0}@@정보 및 우체국 관리"
+  },
+  {
+   "id": 13,
+   "ko": "{F1}Claus Gauloises{F0}@@테스트, 설명서, 초콜릿 구역 관리자"
+  },
+  {
+   "id": 14,
+   "ko": "{F1}Jeans Kupka{F0}@@정보 및 데이터 교환, 테스트, 수석 술집 관리자"
+  },
+  {
+   "id": 15,
+   "ko": "{F1}Norbert Weidle{F0}@@테스트, 가족 연결, 몸매 관리 보조"
+  },
+  {
+   "id": 16,
+   "ko": "{F1}Sushi Tran{F0}@@내기, 술, 테스트, 총괄 조달 관리자"
+  },
+  {
+   "id": 17,
+   "ko": "{F1}Wolfi Menchegal{F0}@@번역 수석 검열관, 프로그램, 배치 중독, 히히!"
+  }
+ ]
+}
